@@ -1,7 +1,5 @@
-DH_Downloader
-=============
-
 DH Downloader
+=============
 
 A simple Delphi program to download files with the following options:<br>
 
