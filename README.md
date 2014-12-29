@@ -1,11 +1,24 @@
 DH Downloader
 =============
 
-A simple Delphi program to download files with the following options:<br>
+Simple program to download files using Delphi with the following options:
 
-[+] You can change the name of the downloaded file<br>
-[+] Can be stored in the folder you want<br>
-[+] You can hide the file<br>
-[+] Makes the file is started each time you load Windows<br>
-[+] Can I charge hidden or normal<br>
-[+] I also made a generator that is intended to put a direct download link like dropbox to download a server where you can also change the icon.<br>
+In the generator:
+
+[+] You can rename the downloaded file
+[+] Can be saved in the folder you want
+[+] You can hide the file
+[+] Makes the file starts every time you load Windows
+[+] Can I charge hidden or normal
+
+In the Stub:
+
+[+] You can run the downloaded file in parallel
+[+] Works silently
+[+] You can rename the downloaded file
+[+] Can be saved in the folder you want
+[+] You can hide the file
+[+] Makes the file starts every time you load Windows
+[+] Can I charge hidden or normal
+
+Video : 
