@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/10/01 10:21:19.546.pas,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\dh.pas</Transaction>
+    <Transaction>2013/10/01 10:21:19.546.dfm,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\dh.dfm</Transaction>
+    <Transaction>2013/10/01 10:21:22.250.dproj,C:\Documents and Settings\Doddy\Mis documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\dhdownloader.dproj</Transaction>
+    <Transaction>2013/10/01 10:48:53.859.pas,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit2.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\about.pas</Transaction>
+    <Transaction>2013/10/01 10:48:53.859.dfm,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit2.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\about.dfm</Transaction>
+    <Transaction>2013/10/01 11:02:26.984.pas,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit3.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\usbmode.pas</Transaction>
+    <Transaction>2013/10/01 11:02:26.984.dfm,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit3.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\usbmode.dfm</Transaction>
+    <Transaction>2013/10/01 13:37:55.046.pas,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit4.pas=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\generate.pas</Transaction>
+    <Transaction>2013/10/01 13:37:55.062.dfm,C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\Unit4.dfm=C:\Documents and Settings\Doddy\Escritorio\Warfactory VIII\delphi\dhdownloaderx\generate.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="about.pas"/>
+    <File Path="about.dfm"/>
+    <File Path="dh.pas"/>
+    <File Path="dh.dfm"/>
+    <File Path="generate.pas"/>
+    <File Path="generate.dfm"/>
+    <File Path="usbmode.pas"/>
+    <File Path="usbmode.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
