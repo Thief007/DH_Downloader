@@ -1,7 +1,7 @@
 DH Downloader
 =============
 
-Simple program to download files using Delphi with the following options:<br>
+Simple program to download files with the following options:<br>
 <br>
 In the generator:<br>
 <br>
@@ -20,5 +20,13 @@ In the Stub:<br>
 [+] You can hide the file<br>
 [+] Makes the file starts every time you load Windows<br>
 [+] Can I charge hidden or normal<br>
-<br>
-Video : https://www.youtube.com/watch?v=tFTiD8QRXFw
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhdown10.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/-cKADPnxPoc/0.jpg)](http://www.youtube.com/watch?v=-cKADPnxPoc)
+
+Good Bye
